@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PunjabiKing143
-- 👀 I’m interested in ...
+- 👀 I’m interested in The Programming Of Sam Software Automatic Mouth
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on sam text to speech
 - 📫 How to reach me email me at fatehb2@nycstudents.net (will not work)
